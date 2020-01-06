@@ -16,3 +16,14 @@
 ### Mr.T:"no i can't invite anyone".
 
 > *This is what I learn: Quit considering others are bad, or stupid, they won't reach out to me if they can do it, always think positivly about others, try to help and don't split hair*
+
+
+
+
+# Jan 03
+
+### My boss did something I'm not appreciate, and when I talking to him, I accidentally express some of my feeling, I said:"maybe next Monday we could .....".
+
+#### (This is not approperiate, because saying something couldn't affect current is useless, and this expression gives bad impression to my boss)
+
+> *This is what I learn: Keep silience when you're angry, keep it for a while, and let the angry feeling vanish, then do what you should do, the angry will affect your decision and your behaviors *
