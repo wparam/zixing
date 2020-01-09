@@ -27,3 +27,16 @@
 ##### (This is not approperiate, because saying something couldn't affect current is useless, and this expression gives bad impression to my boss)
 
 > *This is what I learn: Keep silience when you're angry, keep it for a while, and let the angry feeling vanish, then do what you should do, the angry will affect your decision and your behaviors *
+
+
+# Jan 06
+
+#### 当你团队里的主程序员抛出一个技术方案出来给你, 你觉得不可行, 怎么办?
+
+#### 大概1个月前, 在项目刚起步的阶段, 主程提出了一个方案, 当时我认为风险太高, 而且对于这块风险, 连他自己也没搞清楚, 但是方向是好的, 长期执行的话是有好处的, 我当时有几个选择, 1) 直接委婉拒绝, 2)婉转答应试一试, 让他写个poc, 然后全组讨论决定, 3)让组员们都尝试一下, 然后全组讨论这个方案.
+
+#### 我后来采取的是2, 大概1个月之后根据这个poc全组讨论了一次, 在会上大家普遍认为风险太高, 所以没采用他的方案, 当然, 在全组讨论前, 我事先已经和每个人都1 on 1的聊过了, 包括主程.
+
+> *This is what I learn: 虽然这件事结果还没显现, 可能过段时间才能看出来结果(最主要的是对主程的心理影响), 有个地方是需要思考的, 就是主程花的这个poc的时间是不是浪费了, 但是这个时间缺又是必须的, 而且这种方式会极大的打击团队成员提出新想法新意见的积极性 *
+
+
