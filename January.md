@@ -57,4 +57,6 @@
 
 # Jan 19
 #### 如何应对别人的攻击和挑战
+
+#### Head of QA 突然像我们组发难, 说排期没考虑qa的时间, 安排不合理
 > *So far, I dont have any great idea to control my mood
