@@ -54,3 +54,7 @@
 # Jan 11
 #### 怎么驾驭刺头下属?
 > *This is what I learn: 4点, 1:给他选个好搭档, 2:给他树立个好对手, 3:拉拢人心, 4:彻底铲除 *
+
+# Jan 19
+#### 如何应对别人的攻击和挑战
+> *So far, I dont have any great idea to control my mood
