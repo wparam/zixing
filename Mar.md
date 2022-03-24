@@ -20,11 +20,11 @@
 
   Put all hiring status in summary:
 
-  The # of job openings: 4 (2 senior + 2 fresher)
-  The # of interviewed:  41
-  The # of offered: 13
-  The # of rejected offers:  11
-  The # of onboarded: 2 (Fresher - Himanshu)
+   - The # of job openings: 4 (2 senior + 2 fresher)
+   - The # of interviewed:  41
+   - The # of offered: 13
+   - The # of rejected offers:  11
+   - The # of onboarded: 2 (Fresher - Himanshu)
 
   For all positions, the reject rate is 85%.
   For senior positions, the reject rate is 100%.
