@@ -6,3 +6,27 @@
 
 
 > *This is what I learn: 极度重视committment, 注意自己说过的话，并适当的利用下面人的committment来达到目的*
+
+
+#### 向上汇报时最后带上Summary
+
+#### 随时向上级update这个是常识, 但是每次如果只说单纯的事情很容易会让上级产生碎片化的印象, 看过就忘记了, 最好在邮件最后附带一个总体的summary, 让其对这个事情有个总体的感觉, 其实他们只需要知道summary, 不care细节 。 类似如下的:
+
+Hi XXX,
+ 
+Here is the latest hiring status update:
+ 
+Our recent two offers to A and B are both been rejected.
+ 
+Put all hiring status in summary:
+ 
+The # of job openings: 4 (2 senior + 2 fresher)
+The # of interviewed:  41
+The # of offered: 13
+The # of rejected offers:  11
+The # of onboarded: 2 (Fresher - Himanshu)
+ 
+For all positions, the reject rate is 85%.
+For senior positions, the reject rate is 100%.
+
+> *This is what I learn: 永远记得多放SUMMARY*
