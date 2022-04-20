@@ -15,7 +15,7 @@
 #### so I reply:" You can’t invite him? I thought we have the same permission"
 #### Mr.T:"no i can't invite anyone".
 
-> *This is what I learn: Quit considering others are bad, or stupid, they won't reach out to me if they can do it, always think positivly about others, try to help and don't split hair*
+> *This is what I learn: Quit considering others are bad, or stupid, they won't reach out to me unless they have to, always think positivly about others, try to help and don't split hair*
 
 
 
