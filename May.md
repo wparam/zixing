@@ -10,3 +10,15 @@
   > *This is what I learn: 不管任何时候, 呈现给外界的永远都是开心, 乐观的状态, 如果调整不好就不要参加会议*
 
 
+# May 12
+
+- ####  Never Open Your Heart to Your Boss
+
+  #### Today I couldn't help myself and tell a lot of my feels to my boss, I expressed how I feel about another colleague and it is SOOOO wrong, even though my boss seems to be in my side, but we don't know if they have any connections, and it's so bad to share your thoughts without any protection and let others see through you, make you even more volunerable.
+  
+  #### 正确的方式是: "You Never Let Others Know Your True Thoughts!!"
+
+  
+  > *This is what I learn: Keep your emotion out of work place*
+
+
